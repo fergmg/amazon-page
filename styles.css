@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    color: #121212
+}
+
+.page {
+    display: flex;
+}
+
+.right-container{
+    margin: auto 30px;
+}
+
+.title {
+    font-weight: lighter;
+    font-size: 24pt;
+}
+
+.author {
+    color: #007185    
+}
+
+.breadcrumb {
+    color: #565959    
+}
+
+.rating {
+    width: 120px;
+}
+
+.review-title{
+    font-weight: bold;
+}
+
+.main-img {
+    width: 300px;
+    box-shadow: 0px 2px 5px lightgray;
+}
